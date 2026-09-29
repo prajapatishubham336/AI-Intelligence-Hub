@@ -393,8 +393,8 @@ chatbot-in-langgraph/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/prajapatishubham336/chatbot-in-langgraph.git
-cd chatbot-in-langgraph
+git remote set-url origin https://github.com/prajapatishubham336/AI-Intelligence-Hub.git
+cd AI-Intelligence-Hub
 ```
 
 ### 2. Create the Environment
